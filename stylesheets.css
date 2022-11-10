@@ -1,0 +1,84 @@
+#body1{
+	background-image: url(https://media.tenor.com/fCtJQR5AnYUAAAAi/one-piece-monkey-d-luffy.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#body2{
+	background-image: url(https://i.pinimg.com/originals/fc/9a/03/fc9a033fce6fcc8c5959c1fbe3d3bb09.gif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+
+}
+#body4{
+	background-image: url(https://th.bing.com/th/id/R.cee2c99592475758632cd561d2a4a9da?rik=j8L0zABXQs2drA&riu=http%3a%2f%2f68.media.tumblr.com%2f31c2caf17cb6f18ad912bfc44d9ecde6%2ftumblr_o71mvufacw1uaundno1_1280.gif&ehk=X0mjI8uwa9WdEImM1%2fEDZcncSxnEDnhpwK5LWbBpw3s%3d&risl=&pid=ImgRaw&r=0);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+#body3{
+	background-image: url(https://ih1.redbubble.net/image.235066299.8942/pp,550x550.u2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+nav{
+	display: flex;
+	flex-wrap: wrap;
+}
+nav a{
+	float: left;
+	color: #464141;
+	padding: 15px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+
+
+}
+nav a:hover {
+	background-color: lightgray;
+	color: black;
+}
+.welcome {
+  color: black;
+  margin: 20px;
+  padding: 50px;
+  font-size: 50px;
+}
+img{
+	hieght: 400%;
+	width: 400px;
+	margin-left: 380px;
+	margin-right: 380px;
+}
+.elementary{
+	text-align: center;
+	font-size: 40px ;
+	font-family: sans-serif;
+	padding: 5px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: rgb(205, 221, 226, .5);
+	border-color: #81898c;
+}
+.highschool{
+	text-align: center;
+	font-size: 40px ;
+	font-family: sans-serif;
+	padding: 5px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: rgb(205, 221, 226, .5);
+	border-color: #81898c;
+}
+.seniorhigh{
+	text-align: center;
+	font-size: 40px ;
+	font-family: sans-serif;
+	padding: 5px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: rgb(205, 221, 226, .5);
+	border-color: #81898c;	
+}
